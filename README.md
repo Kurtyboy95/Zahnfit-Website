@@ -162,9 +162,9 @@
 
   <section id="kontakt">
     <h2>Kontakt</h2>
-    <p><strong>E-Mail:</strong> kontakt@zahnfit.de</p>
-    <p><strong>Telefon:</strong> 0800 123 456 78</p>
-    <p><strong>Adresse:</strong> Musterstraße 12, 12345 Stadt</p>
+    <p><strong>E-Mail:</strong> james.davison@barmenia.de</p>
+    <p><strong>Telefon:</strong> 017681230236</p>
+    <p><strong>Adresse:</strong> Ringstrasse 30, 63179 Obertshausen</p>
   </section>
 
   <footer>
