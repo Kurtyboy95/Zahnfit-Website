@@ -152,10 +152,13 @@
     </ul>
   </section>
 
+
   <section id="rechner">
-    <h2>Beitrag berechnen</h2>
-    <p>Individueller Tarifrechner folgt bald – kontaktieren Sie uns vorab per E-Mail oder Telefon!</p>
-  </section>
+  <h2>Beitrag berechnen</h2>
+  <p>Nutzen Sie unseren Tarifrechner, um den passenden Beitrag für Ihre Zahnzusatzversicherung zu finden:</p>
+  <a href="https://ssl.barmenia.de/online-versichern/#/zahnversicherung/Beitrag?prd=Ausgezeichnete%2BZahnzusatzversicherung%2B&produkt=67015&sparte=BK&oabezeichnung=zahnversicherung&pid=Zahnversicherung&dom=www.barmenia.de&p0=234003&adm=00751651&em=james.davison&referrer=https:%2F%2Fwww.barmenia.de%2Fdeu%2Fbde_privat%2Fbde_produkte_privat%2Fbde_gesundheit%2Fzusatzversicherungen%2Fzahn%2Fuebersicht.xhtml" 
+     class="cta" target="_blank" rel="noopener noreferrer">
+    Beitrag jetzt berechnen
 
   <section id="kontakt">
     <h2>Kontakt</h2>
